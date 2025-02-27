@@ -2,6 +2,7 @@ const Card =({title})=>{
   return (
     <div>
       <h2>{title}</h2>
+      <h1> xin chào</h1>
     </div>
   )
 }
